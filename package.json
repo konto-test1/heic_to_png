@@ -1,0 +1,9 @@
+{
+  "name": "heictoany",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "heic2any": "^0.0.3"
+  }
+}
